@@ -1,0 +1,49 @@
+# Android Studio
+.gradle/
+.idea/
+*.iml
+
+# Local configuration
+/local.properties
+
+# Build outputs
+/build/
+/app/build/
+
+# Captures and screenshots
+/captures/
+
+# Native build directories
+/.externalNativeBuild/
+/.cxx/
+
+# Android packages
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated archives
+*.jar
+*.war
+*.ear
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Test results
+/androidTest-results/
+/test-results/
+
+# OS-specific
+.DS_Store
+Thumbs.db
